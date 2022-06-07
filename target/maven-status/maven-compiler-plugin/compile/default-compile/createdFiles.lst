@@ -1,0 +1,16 @@
+com\longkubi\config\WebAppInitializer.class
+com\longkubi\product\Test.class
+com\longkubi\product\Service\OrderService.class
+com\longkubi\product\Controller\OrderController.class
+com\longkubi\product\Service\ProductService.class
+com\longkubi\product\Repository\ProductRepository.class
+com\longkubi\product\Controller\ProductController.class
+com\longkubi\product\Entity\Orders.class
+com\longkubi\product\Entity\Product.class
+com\longkubi\product\Controller\OrderdtailController.class
+com\longkubi\product\Repository\OrderRepository.class
+com\longkubi\product\Repository\OrdedetailRepository.class
+com\longkubi\config\JpaConfig.class
+com\longkubi\config\WebMvcConfig.class
+com\longkubi\product\Entity\OrderDetail.class
+com\longkubi\product\Service\OrderDetailService.class
